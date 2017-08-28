@@ -8,4 +8,4 @@ NO WARRANTY FOR THIS USING THIS PROGRAM.
 
 ===== TO DO =====
 1. Have to develop for Burmese Unicode Conversion
-2. Have to convert to Native *.EXE for Microsoft Window Platforms. 
+2. Have to convert JAVA Byte Code to Native *.EXE for Microsoft Window Platforms. 
